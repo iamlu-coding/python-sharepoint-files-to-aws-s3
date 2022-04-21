@@ -1,0 +1,16 @@
+{
+    "share_point": 
+        {
+            "user": "",
+            "password": "",
+            "url": "",
+            "site": "",
+            "doc_library": "Shared Documents/" 
+        },
+    "aws_bucket": {
+        "aws_access_key_id": "",
+        "aws_secret_access_key": "",
+        "bucket_name": "",
+        "bucket_subfolder": ""
+    }
+}
